@@ -1,0 +1,2 @@
+HTML CSS and JavaScript are core web technologies.
+They are used to design and develop web applications.

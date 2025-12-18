@@ -1,0 +1,2 @@
+Python programming is a high level interpreted language.
+It is widely used in artificial intelligence and data science.

@@ -1,0 +1,2 @@
+Java programming is an object oriented programming language.
+Java is widely used for desktop, web, and Android applications.
